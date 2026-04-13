@@ -47,6 +47,7 @@ ng serve
 ## 📸 Screenshots
 <!-- Add screenshots here -->
 
----
+---<img width="796" height="713" alt="image" src="https://github.com/user-attachments/assets/39ced241-3d45-4007-a2f5-4dd33f71d895" />
+
 
 Made with ❤️ by **Ahilya** | Learning Spring Boot & Angular
