@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AhilyaVote" type="Application" factoryName="Application">
+    <envs>
+      <env name="DB_PASSWORD" value="@111*Aim" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.ahilya.vote.AhilyaVote.AhilyaVoteApplication" />
+    <module name="AhilyaVote" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
